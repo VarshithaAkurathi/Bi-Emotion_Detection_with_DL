@@ -1,4 +1,4 @@
-# Bi-Emotion_Detection_with_DL
+# Bi-Emotion_Detection_with_ML
 
 •Fake NEWS Detection using emotions on social media to avoid the spread of misinformation (worked on tweets)
 
